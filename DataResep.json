@@ -1,0 +1,60 @@
+{ 
+  "Resep":{
+    "Perkedel Telur" : {
+      "id" :1,
+      "item": "Perkedel Telur",
+      "Img" : "https://img.freepik.com/free-photo/bottom-view-chicken-nuggets-wood-board-with-sauces-nugget-fork-dark-table_140725-112085.jpg?size=626&ext=jpg&uid=R76821309&ga=GA1.1.1230236000.1699152494&semt=sph",
+      "Kalori": "290Kcl/1porsi",
+      "Bahan": "-5 butir telur  -25g Tepung Tapioka  -150g amur merang   -1/2 sdt garam   -2 butir Bawang merah   -1 siung bawang putih   -1 sdt garam ",
+      "CaraMasak": "Belah dua telur rebus dan ambil kuningnya lalu haluskan. Putih telurnya dicincang kasar, Bunda.Campur cincangan telur ayam, jamur merang, tepung tapioka, bumbu halus, dan kuning telur.Aduk sampai merata. Bagi adonan menjadi sepuluh bagian dan bentuk sesuai selera.Panaskan minyak, goreng hingga berwarna kuning kecokelatan lalu angkat.Hidangkan selagi hangat, Bunda. Catatan: Satu porsi perkedel telur berisi 2 buah perkedel"
+    },
+    "Sayur tahu jamur": { 
+      "id" :2,
+      "item": "Sayur tahu jamur",
+      "Img" : "https://img.freepik.com/free-photo/stir-fried-kale-spicy-crispy-pork-wooden-table-thai-food-concept_1150-26544.jpg?size=626&ext=jpg&uid=R76821309&ga=GA1.2.1230236000.1699152494&semt=ais",
+      "Kalori": "46Kcl/1porsi",
+      "Bahan": "-150 gram tahu putih -50 gram rumput laut -100 gram jamur -400 ml kaldu ayam  -1 buah tomat -1 sdm minyak goreng - 1 sdm bawang putih  -1 ruas jahe, cincang  -1/2 sdt garam  -1 sdt kecap asin",
+      "CaraMasak": "Panaskan 1 sdm minyak di panci kecil, masukkan jahe dan bawang putih cincang. Tumis hingga aromanya keluar. Tuang kaldu di panci, didihkan. Masukkan tahu, jamur, tomat, rumput laut, garam, dan kecap. Didihkan kembali lalu angkat. Sajikan sayur selagi hangat, Bunda."
+    },
+    "Semur tahu" :{ 
+      "id" :3,
+      "item": "Semur tahu",
+      "Img" : "https://img.freepik.com/free-photo/top-view-chicken-salad-with-vegetables-light-surface_140725-75108.jpg?size=626&ext=jpg&uid=R76821309&ga=GA1.2.1230236000.1699152494&semt=ais",
+      "Kalori": "138Kcl/1 porsi",
+      "Bahan": " -250 gram tahu putih  -50 gram udang kering  -1 butir telur  -500 ml kaldu -Minyak secukupnya -2 sdm tepung tapioka -2 sdm irisan bawang merah -1 sdm irisan bawang putih  -1 sdt lada -1/2 sdt pala  -1 sdt garam  -2 sdm kecap manis -2 butir cengkeh -5 buah tomat kecil",
+      "CaraMasak": "Campurkan tahu, udang kering, dan kocokan telur dengan 3 sdm air. Aduk sampai rata lalu bentuk bulat-bulat. Panaskan minyak dalam wajan lalu goreng bola-bola tahu hingga setengah kering dan berwarna kekuningan. Angkat. Panaskan kembali wajan tanpa minyak. Tumis bumbu yang sudah dihaluskan dan bumbu lainnya hingga layu dan aromanya keluar. Tuangi kaldu, masukkan bola-bola tahu yang sudah digoreng. Masak kembali hingga matang sempurna dan angkat. Hidangkan semur tahu selagi panas sebagai pelengkap nasi.l"
+    },
+    "Tumis genjer":{ 
+      "id" :4,
+      "item": "Tumis genjer",
+      "Img" : "https://img.freepik.com/free-photo/stir-fried-kale-spicy-crispy-pork-wooden-table-thai-food-concept_1150-26547.jpg?size=626&ext=jpg&uid=R76821309&ga=GA1.2.1230236000.1699152494&semt=ais",
+      "Kalori": "77Kcl/1 porsi",
+      "Bahan": " -500 gram bunga genjer -2 sdm minyak -2 sdm bawang merah -1 sdm bawang putih  -1 sdt terasi -2 sdm cabai merah -2 sdm cabai hijau -1 ruas lengkuas -2 lembar daun salam -1 sdm garam ",
+      "CaraMasak": "Panaskan 2 sdm minyak dan tumis irisan bawang merah dan bawang putih hingga layu dan aromanya keluar. Masukkan irisan bulat cabai merah, cabai hijau, terasi, garam, irisan lengkuas, daun salam, dan garam. Tumis kembali sampai layu.Masukkan potongan bunga genjer, tumis selama 5 menit hingga lalu, angkat. Hidangkan tumis genjer selagi hangat, Bunda."
+    },
+    "Pindang telur":{
+      "id" :5,
+      "item": "Pindang telur",
+      "Img" : "https://img.freepik.com/free-photo/green-curry-bowl-with-lime-red-onion-lemon-grass-garlic-kaffir-lime-leaves_1150-21370.jpg?size=626&ext=jpg&uid=R76821309&ga=GA1.1.1230236000.1699152494&semt=ais",
+      "Kalori": "82Kcl/1 porsi",
+      "Bahan": " -5 butir telur ayam -2 lembar daun salam -500 ml air -1 sdm bawang merah -1 sdm bawang putih -1 sdm air asam -1 ruas lengkuas -1 sdt garam",
+      "CaraMasak": "Rebus telur dengan air dan semua bumbu dengan api sedang hingga telur matang dan air menyusut. Angkat telur lalu ketuk-ketuk kulit telur hingga retak. Masukkan kembali ke air rebusan lalu masak hingga air menyusut. Angkat. Kupas telur dan hidangkan, Bunda."
+    },
+    "Genjer tauco": {
+      "id" :6,
+      "item": "Genjer tauco",
+      "Img" : "https://img.freepik.com/free-photo/pork-cabbage-soup-with-carrots-chopped-green-onions-cucumber-wooden-plate-wooden-plate_1150-27230.jpg?size=626&ext=jpg&uid=R76821309&ga=GA1.2.1230236000.1699152494&semt=aishttps://img.freepik.com/free-photo/fast-food-restaurant-table_7939-2866.jpg?size=626&ext=jpg&ga=GA1.1.1230236000.1699152494&semt=ais",
+      "Kalori": "180Kcl/1 porsi",
+      "Bahan": "-400 gram bunga genjer -500 ml air -2 sdm minyak goreng -100 gram udang ukuran sedang -50 gram tauco -1 lembar daun salam -1 ruas lengkuas -1 buah tomat, potong 4 bagian -Bumbu: -1 buah cabai merah, giling kasar -2 butir cabai merah, iris -1 siung bawang putih, iris -1 sdt terasi -1 sdm garam ",
+      "CaraMasak": "Rebus air dalam panci dan masukkan bunga genjer. Masak selama 5 menit, angkat dan tiriskan. Panaskan 2 sdm minyak di wajan. Tumis bawang merah, bawang putih, cabai, terasi, daun salam, lengkuas, tomat, dan garam hingga harum. Masukkan tauco dan tumis kembali hingga merata. Angkat. Siapkan piring saji, letakkan dan susun bunga genjer yang sudah direbus.Siramkan bumbu tauco di atasnya. Hidangkan genjer tauco bersama lauk lainnya, Bunda."
+    },
+    "Rendang kentang" :{
+      "id" :7,
+      "item": "Rendang kentang",
+      "Img" : "https://img.freepik.com/free-photo/delicious-goulash-stew-table_23-2149371732.jpg?size=626&ext=jpg&uid=R76821309&ga=GA1.2.1230236000.1699152494&semt=ais",
+      "Kalori": "195Kcl/1 porsi",
+      "Bahan": " - 1 kg kentang kecil -250 ml santan sedang  -500 ml santan kental  -5 lembar daun jeruk  -1 lembar daun kunyit, potong-potong -2 lembar daun salam  -2 batang serai, memarkan  -3 buah asam kandis -1 sdm rempah rendang, siap pakai  -10 butir bawang merah  -7 siung bawang putih  -250 gram cabai merah besar  -2 cm lengkuas -8 butir kemiri  -2 sdt garam",
+      "CaraMasak": "Belah dbil kuningnya lalu haluskan. Putih telurnya dicincang kasar, Bunda.Campur cincangan telur ayam, jamur merang, tepung tapioka, bumbu halus, dan kuning telur.Aduk sampai merata. Bagi adonan menjadi sepuluh bagian dan bentuk sesuai selera.Panaskan minyak, goreng hingga berwarna kuning kecokelatan lalu angkat.Hidangkan selagi hangat, Bunda. Catatan: Satu porsi perkedel telur berisi 2 buah perkedel"
+    }
+  }
+}

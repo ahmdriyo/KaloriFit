@@ -1,0 +1,1782 @@
+{
+  "Makanan": ["TempeGoreng(100gram)","Dada Ayam Kukus(100gram)", "Tahu(100gram)", "Nasi Putih(100gram)", "Singkong Rebus(100gram)","Jagung Rebus(100gram)","Kentang Goreng(100gram)","Nasi Goreng(1porsi)","Mie Goreng(1Porsi)","Nasi Ayam(1porsi)","Sate Ayam(1porsi)","Gado Gado(1porsi)","Soto (1porsi)","Nasi Uduk(1porsi)","Bakso(1porsi)","Nasi Campur(1porsi)","Ubi Rebus(100gram)","Sate Kambing(1porsi)","Nasi Kuning(1porsi)","Sate Madura(1porsi)","Sate Padang(1porsi)","Sate Sapi(1porsi)","Nasi Padang(1porsi)","Sop Buntut(1porsi)","Pecel Lele(1porsi)","Nasi Timbel(1porsi)","Pepes Ikan(1porsi)","Sop Ayam(1porsi)","Sop Kambing(1porsi)","Ketoprak(1porsi)","Mie Ayam(1porsi)","Nasi Liwet(1porsi)","Sop Bakso(1porsi)","Rawon(1porsi)","Sushi Roll Salmon(8 potong)","Spaghetti(1porsi)","Salad Sayuran(1porsi)","Oatmel + Buah(1porsi)","Telur Dadar(1telur)","Sandwich(1porsi)","Bubur Jagung(1porsi)","Ayam Panggang(1porsi)","Steak Daging Sapi(150 gram)","Pizza(1potong)","Sup Sayuran(1porsi)","Ikan Panggang(1porsi)","Bakmi Goreng(1porsi)","Roti Gandum(1potong)","Tuna Salad(1porsi)","Tahu Goreng(1potong)","Capcay(1porsi)","Tuna Salad(1porsi)","Sayur Asem(1porsi)","Rendang Daging Sapi(1potong)","Tumis Kangkung(1porsi)","Bubur Ayam(1porsi)","Seblak(1porsi)","Cumi Tepung(1porsi)","Pempek(1porsi)","Kopi Susu(1gelas)"],
+  "Minuman": ["Air Jahe Lemon(1gelas)","Es Teh Manis(1gelas)","Jus Alpukat(1gelas)","Teh Tarik(1gelas)","Kopi Tubruk(1gelas)","Soda Gembira(1gelas)","Es Jeruk(1gelas)","Air Kelapa(1gelas)","Wedang Jahe(1gelas)","Jus Mangga(1gelas)","Teh Botol Sosro(1gelas)","Bir Bintang(1gelas)","Es Cincau(1gelas)","Kopi Kapal Api(1gelas)","Teh Hijau tawar(1gelas)","Jus Pepaya(1gelas)","Jus Kurma(1gelas)","Jus Melon(1gelas)","Jus Delima(1gelas)","Jus Anggur(1gelas)","Jus Cranberyy(1gelas)","Jus Tomat(1gelas)","Jus Blueberry(1gelas)","Jus Semangka(1gelas)","Jus Wortel(1gelas)","Jus Pisang(1gelas)","Wedang Seceng(1gelas)","Jus Kiwi(1gelas)","Teh Sereh(1gelas)","Jus Jeruk(1gelas)","Lemonade(1gelas)","Kopi Kenangan(1gelas)","Susu Beruang(1gelas)","Es Oyen(1gelas)","Es Kopyor(1gelas)","Susu Kedelai(1gelas)","Kopi Tubruk madura(1gelas)","Es Sirsak(1gelas)","Jamu Kunyit(1gelas)","Es Coklat(1gelas)","Wedang Ronde(1gelas)","Susu Kurma(1gelas)","Kopi Joss(1gelas)","Teh Talua(1gelas)","Bandrek(1gelas)","Bir Peletok(1gelas)","Es Kacang Merah(1gelas)","Teh Tarik Susu(1gelas)","Kopi Tubruk Susu(1gelas)","Air Putih(1gelas)","Jus Apel(1gelas)","Susu Soda(1gelas)","Teh Poci(1gelas)","Es Jeruk Nipis(1gelas)","Bajigur(1gelas)","Susu Jahe(1gelas)","Kopi Aceh(1gelas)","Ultra Milik(1botol)","Buavita(1botol)","Good Day(1pcs)","Fanta(1botol)","Sprite(1botol)","Exsta Joss(1pcs)","Pulpy Orange(1botol)","Dr.Pepper(1botol)","Pepsi(1botol)","Teh Javana Vanilla(1botol)","Teh Javana Mint(1botol)","Teh Gelas Botol(1botol)","Teh Javana Lime(1botol)","Milo(1pcs)","Tropicana Slim(1pcs)","Nutrisari(1pcs)","Mizon(1botol)","Teh Javana(1botol)","Pocari Sweat(1botol)","Teh Kotak(1botol)","Teh Gelas(1gelas)","Coca Cola(1botol)","Freste(1botol)","Teh Botol Sosro(1botol)","Teh Pucuk(1botol)","La Memo(1botol)"],
+  "Cemilan": ["Bakwan Jagung(1pcs)","Martabak(1porsi)","Onde Onde(1pcs)","Kue Cubit(1porsi)","Cilok(1porsi)","Pastel(1pcs)","Molen Pisang(1pcs)","Roti Bakar(1potong)","Tahu Bulat(1porsi)","Kue Lumpur(1porsi)","Cimol(1porsi)","Sale(1porsi)","Kripik Pisang(1porsi)","Rempeyek(1porsi)","Tahu Crispy(1porsi)","Kripik Singkong(1porsi)","Emping Melinjo(1porsi)","Kacang Goreng(1porsi)","Keripik Kentang(1porsi)","Pangsit(1pcs)","Biskuit(1porsi)","Roti Gandum(1pcs)","Pisang Goreng(1pcs)","Lupis(1pcs)","Kue Sus(1pcs)"],
+  "Desserts": ["Bubur Ketan Hitam(1porsi)","Es Krim(1porsi)","Es Doger(1gelas)","Cendol(1gelas)","Es Campur(1gelas)","Es Teler(1gelas)","Putu Mayang(1porsi)","Lumpur Surut(1porsi)","Lapis Legit(1porsi)","Tape Ketan(1porsi)","Putu Pandan(1porsi)","Sagon(1porsi)","Pukis(1porsi)","Kue Mangkok(1porsi)","Talam Jagung(1porsi)","Kue Putu(1porsi)","Dadar Gulung(1porsi)","Tiramisu Cupcakes(1porsi)","Clafoutis(1porsi)","Fruit Tart(1porsi)","Cannoli(1porsi)","Panna Cotta(1porsi)","Lava Cake(1porsi)","Crepes(1pcs)","Mochi(1pcs)","Martabak Manis(1potong)","Kue Lapis(1potong)","Klepon(1pcs)","Donat(1pcs)"],
+  "DetailMakanan": {
+    "Dadar Gulung(1porsi)" : {
+      "id":200,
+      "Protein": 2,
+      "Kalori" : 150,
+      "Lemak": 8,
+      "Serat":1,
+      "Gula": 8,
+      "Garam":1
+    },
+    "Tiramisu Cupcakes(1porsi)" : {
+      "id":199,
+      "Protein": 3,
+      "Kalori" : 180,
+      "Lemak": 10,
+      "Serat":1,
+      "Gula": 15,
+      "Garam":1
+    },
+    "Clafoutis(1porsi)" : {
+      "id":198,
+      "Protein": 4,
+      "Kalori" : 220,
+      "Lemak": 11,
+      "Serat":1,
+      "Gula": 20,
+      "Garam":1
+    },
+    "Fruit Tart(1porsi)" : {
+      "id":197,
+      "Protein": 2,
+      "Kalori" : 180,
+      "Lemak": 10,
+      "Serat":1,
+      "Gula": 15,
+      "Garam":1
+    },
+    "Cannoli(1porsi)" : {
+      "id":196,
+      "Protein": 5,
+      "Kalori" : 200,
+      "Lemak": 10,
+      "Serat":1,
+      "Gula": 15,
+      "Garam":1
+    },
+    "Panna Cotta(1porsi)" : {
+      "id":195,
+      "Protein": 4,
+      "Kalori" : 250,
+      "Lemak": 15,
+      "Serat":1,
+      "Gula": 20,
+      "Garam":1
+    },
+    "Lava Cake(1porsi)" : {
+      "id":193,
+      "Protein": 6,
+      "Kalori" : 350,
+      "Lemak": 20,
+      "Serat":1,
+      "Gula": 25,
+      "Garam":1
+    },
+    "Crepes(1pcs)" : {
+      "id":192,
+      "Protein": 5,
+      "Kalori" : 200,
+      "Lemak": 8,
+      "Serat":1,
+      "Gula": 15,
+      "Garam":1
+    },
+    "Mochi(1pcs)" : {
+      "id":191,
+      "Protein": 2,
+      "Kalori" : 100,
+      "Lemak": 1,
+      "Serat":1,
+      "Gula": 10,
+      "Garam":1
+    },
+    "Putu Mayang(1porsi)" : {
+      "id":190,
+      "Protein": 2,
+      "Kalori" : 150,
+      "Lemak": 5,
+      "Serat":1,
+      "Gula": 10,
+      "Garam":1
+    },
+    "Lumpur Surut(1porsi)" : {
+      "id":189,
+      "Protein": 3,
+      "Kalori" :180,
+      "Lemak": 5,
+      "Serat":2,
+      "Gula": 10,
+      "Garam":1
+    },
+    "Lapis Legit(1porsi)" : {
+      "id":188,
+      "Protein": 4,
+      "Kalori" : 250,
+      "Lemak": 10,
+      "Serat":2,
+      "Gula": 15,
+      "Garam":1
+    },
+    "Tape Ketan(1porsi)" : {
+      "id":187,
+      "Protein": 2,
+      "Kalori" : 200,
+      "Lemak": 5,
+      "Serat":2,
+      "Gula": 10,
+      "Garam":0
+    },
+    "Putu Pandan(1porsi)" : {
+      "id":186,
+      "Protein": 3,
+      "Kalori" : 120,
+      "Lemak": 1,
+      "Serat":1,
+      "Gula": 10,
+      "Garam":0
+    },
+    "Sagon(1porsi)" : {
+      "id":185,
+      "Protein": 2,
+      "Kalori" :160,
+      "Lemak": 5,
+      "Serat":1,
+      "Gula": 25,
+      "Garam":0
+    },
+    "Pukis(1porsi)" : {
+      "id":184,
+      "Protein": 3,
+      "Kalori" : 150,
+      "Lemak": 4,
+      "Serat":2,
+      "Gula": 10,
+      "Garam":1
+    },
+    "Kue Mangkok(1porsi)" : {
+      "id":183,
+      "Protein": 2,
+      "Kalori" : 130,
+      "Lemak": 3,
+      "Serat":1,
+      "Gula": 10,
+      "Garam":1
+    },
+    "Talam Jagung(1porsi)" : {
+      "id":182,
+      "Protein": 3,
+      "Kalori" : 160,
+      "Lemak": 3,
+      "Serat":2,
+      "Gula": 15,
+      "Garam":1
+    },
+    "Kue Putu(1porsi)" : {
+      "id":181,
+      "Protein": 2,
+      "Kalori" : 100,
+      "Lemak": 2,
+      "Serat":1,
+      "Gula": 10,
+      "Garam":1
+    },
+    "Bubur Ketan Hitam(1porsi)" : {
+      "id":180,
+      "Protein": 3,
+      "Kalori" : 200,
+      "Lemak": 1,
+      "Serat":2,
+      "Gula": 20,
+      "Garam":1
+    },
+    "Pangsit(1pcs)" : {
+      "id":179,
+      "Protein": 0,
+      "Kalori" : 70,
+      "Lemak": 2,
+      "Serat":1,
+      "Gula": 1,
+      "Garam":1
+    },
+    "Biskuit(1porsi)" : {
+      "id":178,
+      "Protein": 2,
+      "Kalori" : 110,
+      "Lemak": 4,
+      "Serat":1,
+      "Gula": 7,
+      "Garam":1
+    },
+    "Roti Gandum(1pcs)" : {
+      "id":177,
+      "Protein": 3,
+      "Kalori" :230,
+      "Lemak": 3,
+      "Serat":1,
+      "Gula": 4,
+      "Garam":1
+    },
+    "Donat(1pcs)" : {
+      "id":176,
+      "Protein": 5,
+      "Kalori" : 160,
+      "Lemak": 8,
+      "Serat":1,
+      "Gula": 8,
+      "Garam":1
+    },
+    "Pisang Goreng(1pcs)" : {
+      "id":175,
+      "Protein": 2,
+      "Kalori" : 150,
+      "Lemak": 8,
+      "Serat":2,
+      "Gula": 8,
+      "Garam":1
+    },
+    "Klepon(1pcs)" : {
+      "id":174,
+      "Protein": 2,
+      "Kalori" : 70,
+      "Lemak": 4,
+      "Serat":1,
+      "Gula": 5,
+      "Garam":1
+    },
+    "Lupis(1pcs)" : {
+      "id":173,
+      "Protein": 3,
+      "Kalori" : 100,
+      "Lemak": 6,
+      "Serat":1,
+      "Gula": 6,
+      "Garam":1
+    },
+    "Kue Sus(1pcs)" : {
+      "id":172,
+      "Protein": 3,
+      "Kalori" : 160,
+      "Lemak": 8,
+      "Serat":1,
+      "Gula": 9,
+      "Garam":1
+    },
+    "Onde Onde(1pcs)" : {
+      "id":171,
+      "Protein": 5,
+      "Kalori" : 60,
+      "Lemak": 8,
+      "Serat":1,
+      "Gula": 8,
+      "Garam":1
+    },
+    "Kue Cubit(1porsi)" : {
+      "id":170,
+      "Protein": 2,
+      "Kalori" : 120,
+      "Lemak": 8,
+      "Serat":2,
+      "Gula": 1,
+      "Garam":1
+    },
+    "Cilok(1porsi)" : {
+      "id":169,
+      "Protein": 4,
+      "Kalori" : 150,
+      "Lemak": 8,
+      "Serat":2,
+      "Gula": 1,
+      "Garam":1
+    },
+    "Kue Lapis(1potong)" : {
+      "id":168,
+      "Protein": 3,
+      "Kalori" : 180,
+      "Lemak": 8,
+      "Serat":1,
+      "Gula": 10,
+      "Garam":1
+    },
+    "Pastel(1pcs)" : {
+      "id":167,
+      "Protein": 3,
+      "Kalori" : 140,
+      "Lemak": 10,
+      "Serat":2,
+      "Gula": 1,
+      "Garam":1
+    },
+    "Molen Pisang(1pcs)" : {
+      "id":166,
+      "Protein": 3,
+      "Kalori" : 180,
+      "Lemak": 8,
+      "Serat":2,
+      "Gula": 10,
+      "Garam":1
+    },
+    "Bakwan Jagung(1pcs)" : {
+      "id":165,
+      "Protein": 3,
+      "Kalori" : 150,
+      "Lemak": 8,
+      "Serat":3,
+      "Gula": 1,
+      "Garam":1
+    },
+    "Roti Bakar(1potong)" : {
+      "id":164,
+      "Protein": 1,
+      "Kalori" : 80,
+      "Lemak": 3,
+      "Serat":1,
+      "Gula": 5,
+      "Garam":1
+    },
+    "Tahu Bulat(1porsi)" : {
+      "id":163,
+      "Protein": 2,
+      "Kalori" : 180,
+      "Lemak": 12,
+      "Serat":2,
+      "Gula": 1,
+      "Garam":1
+    },
+    "Kue Lumpur(1porsi)" : {
+      "id":162,
+      "Protein": 2,
+      "Kalori" : 120,
+      "Lemak": 5,
+      "Serat":1,
+      "Gula": 8,
+      "Garam":1
+    },
+    "Cimol(1porsi)" : {
+      "id":161,
+      "Protein": 3,
+      "Kalori" : 150,
+      "Lemak": 8,
+      "Serat":2,
+      "Gula": 1,
+      "Garam":1
+    },
+    "Sale(1porsi)" : {
+      "id":160,
+      "Protein": 1,
+      "Kalori" : 100,
+      "Lemak": 1,
+      "Serat":1,
+      "Gula": 15,
+      "Garam":1
+    },
+    "Kripik Pisang(1porsi)" : {
+      "id":159,
+      "Protein": 1,
+      "Kalori" : 120,
+      "Lemak": 5,
+      "Serat":2,
+      "Gula": 8,
+      "Garam":1
+    },
+    "Rempeyek(1porsi)" : {
+      "id":158,
+      "Protein": 4,
+      "Kalori" : 160,
+      "Lemak": 10,
+      "Serat":1,
+      "Gula": 0,
+      "Garam":1
+    },
+    "Tahu Crispy(1porsi)" : {
+      "id":157,
+      "Protein": 8,
+      "Kalori" : 180,
+      "Lemak": 12,
+      "Serat":2,
+      "Gula": 1,
+      "Garam":1
+    },
+    "Kripik Singkong(1porsi)" : {
+      "id":156,
+      "Protein": 6,
+      "Kalori" : 200,
+      "Lemak": 15,
+      "Serat":3,
+      "Gula": 1,
+      "Garam":1
+    },
+    "Emping Melinjo(1porsi)" : {
+      "id":155,
+      "Protein": 2,
+      "Kalori" : 120,
+      "Lemak": 8,
+      "Serat":4,
+      "Gula": 0,
+      "Garam":1
+    },
+    "Kacang Goreng(1porsi)" : {
+      "id":154,
+      "Protein": 2,
+      "Kalori" : 200,
+      "Lemak": 15,
+      "Serat": 3,
+      "Gula": 1,
+      "Garam":1
+    },
+    "Keripik Kentang(1porsi)" : {
+      "id":153,
+      "Protein": 2,
+      "Kalori" : 150,
+      "Lemak": 100,
+      "Serat":2,
+      "Gula": 1,
+      "Garam":1
+    },
+    "Ultra Milik(1botol)" : {
+      "id":152,
+      "Protein": 0,
+      "Kalori" : 150,
+      "Lemak": 0,
+      "Serat":0,
+      "Gula": 10,
+      "Garam":0
+    },
+    "Buavita(1botol)" : {
+      "id":151,
+      "Protein": 0,
+      "Kalori" : 100,
+      "Lemak": 0,
+      "Serat":0,
+      "Gula": 20,
+      "Garam":0
+    },
+    "Good Day(1pcs)" : {
+      "id":150,
+      "Protein": 0,
+      "Kalori" : 100,
+      "Lemak": 0,
+      "Serat":0,
+      "Gula": 15,
+      "Garam":0
+    },
+    "Fanta(1botol)" : {
+      "id":149,
+      "Protein": 0,
+      "Kalori" : 150,
+      "Lemak": 0,
+      "Serat":0,
+      "Gula": 42,
+      "Garam":0
+    },
+    "Sprite(1botol)" : {
+      "id":148,
+      "Protein": 0,
+      "Kalori" : 140,
+      "Lemak": 0,
+      "Serat":0,
+      "Gula": 38,
+      "Garam":0
+    },
+    "Exsta Joss(1pcs)" : {
+      "id":147,
+      "Protein": 0,
+      "Kalori" : 40,
+      "Lemak": 0,
+      "Serat":0,
+      "Gula": 9,
+      "Garam":0
+    },
+    "Pulpy Orange(1botol)" : {
+      "id":146,
+      "Protein": 0,
+      "Kalori" : 130,
+      "Lemak": 0,
+      "Serat":0,
+      "Gula": 28,
+      "Garam":0
+    },
+    "Dr.Pepper(1botol)" : {
+      "id":145,
+      "Protein": 0,
+      "Kalori" : 150,
+      "Lemak": 0,
+      "Serat":0,
+      "Gula": 40,
+      "Garam":0
+    },
+    "Pepsi(1botol)" : {
+      "id":144,
+      "Protein": 0,
+      "Kalori" : 150,
+      "Lemak": 0,
+      "Serat":0,
+      "Gula": 41,
+      "Garam":0
+    },
+    "Teh Javana Vanilla(1botol)" : {
+      "id":143,
+      "Protein": 0,
+      "Kalori" : 80,
+      "Lemak": 0,
+      "Serat":0,
+      "Gula": 20,
+      "Garam":0
+    },
+    "Teh Javana Mint(1botol)" : {
+      "id":142,
+      "Protein": 0,
+      "Kalori" : 80,
+      "Lemak": 0,
+      "Serat":0,
+      "Gula": 20,
+      "Garam":0
+    },
+    "La Memo(1botol)" : {
+      "id":141,
+      "Protein": 0,
+      "Kalori" : 80,
+      "Lemak": 0,
+      "Serat":0,
+      "Gula": 15,
+      "Garam":0
+    },
+    "Teh Gelas Botol(1botol)" : {
+      "id":140,
+      "Protein": 0,
+      "Kalori" : 50,
+      "Lemak": 0,
+      "Serat":0,
+      "Gula": 10,
+      "Garam":0
+    },
+    "Teh Javana Lime(1botol)" : {
+      "id":139,
+      "Protein": 0,
+      "Kalori" : 80,
+      "Lemak": 0,
+      "Serat":0,
+      "Gula": 20,
+      "Garam":0
+    },
+    "Milo(1pcs)" : {
+      "id":138,
+      "Protein": 0,
+      "Kalori" : 130,
+      "Lemak": 0,
+      "Serat":0,
+      "Gula": 12,
+      "Garam":0
+    },
+    "Tropicana Slim(1pcs)" : {
+      "id":137,
+      "Protein": 0,
+      "Kalori" :25,
+      "Lemak": 0,
+      "Serat":0,
+      "Gula": 2,
+      "Garam":0
+    },
+    "Nutrisari(1pcs)" : {
+      "id":136,
+      "Protein": 0,
+      "Kalori" : 70,
+      "Lemak": 0,
+      "Serat":0,
+      "Gula": 15,
+      "Garam":0
+    },
+    "Mizon(1botol)" : {
+      "id":135,
+      "Protein": 0,
+      "Kalori" : 50,
+      "Lemak": 0,
+      "Serat":0,
+      "Gula": 11,
+      "Garam":0
+    },
+    "Teh Javana(1botol)" : {
+      "id":134,
+      "Protein": 0,
+      "Kalori" : 80,
+      "Lemak": 0,
+      "Serat":0,
+      "Gula": 20,
+      "Garam":0
+    },
+    "Pocari Sweat(1botol)" : {
+      "id":133,
+      "Protein": 0,
+      "Kalori" : 30,
+      "Lemak": 0,
+      "Serat":0,
+      "Gula": 5,
+      "Garam":0
+    },
+    "Teh Kotak(1botol)" : {
+      "id":132,
+      "Protein": 0,
+      "Kalori" : 90,
+      "Lemak": 0,
+      "Serat":0,
+      "Gula": 15,
+      "Garam":0
+    },
+    "Teh Gelas(1gelas)" : {
+      "id":131,
+      "Protein": 0,
+      "Kalori" : 50,
+      "Lemak": 0,
+      "Serat":0,
+      "Gula": 10,
+      "Garam":0
+    },
+    "Coca Cola(1botol)" : {
+      "id":130,
+      "Protein": 0,
+      "Kalori" : 140,
+      "Lemak": 0,
+      "Serat":0,
+      "Gula": 39,
+      "Garam":0
+    },
+    "Freste(1botol)" : {
+      "id":129,
+      "Protein": 0,
+      "Kalori" : 100,
+      "Lemak": 0,
+      "Serat":0,
+      "Gula": 24,
+      "Garam":0
+    },
+    "Teh Botol Sosro(1botol)" : {
+      "id":128,
+      "Protein": 0,
+      "Kalori" : 160,
+      "Lemak": 0,
+      "Serat":0,
+      "Gula": 30,
+      "Garam":0
+    },
+    "Teh Pucuk(1botol)" : {
+      "id":127,
+      "Protein": 0,
+      "Kalori" : 60,
+      "Lemak": 0,
+      "Serat":0,
+      "Gula": 17,
+      "Garam":0
+    },
+    "Jus Pepaya(1gelas)" : {
+      "id":126,
+      "Protein": 0,
+      "Kalori" : 120,
+      "Lemak": 0,
+      "Serat":0,
+      "Gula": 20,
+      "Garam":0
+    },
+    "Jus Kurma(1gelas)" : {
+      "id":125,
+      "Protein": 0,
+      "Kalori" : 150,
+      "Lemak": 0,
+      "Serat":0,
+      "Gula": 25,
+      "Garam":0
+    },
+    "Jus Melon(1gelas)" : {
+      "id":124,
+      "Protein": 0,
+      "Kalori" : 60,
+      "Lemak": 0,
+      "Serat":0,
+      "Gula": 15,
+      "Garam":0
+    },
+    "Jus Delima(1gelas)" : {
+      "id":123,
+      "Protein": 0,
+      "Kalori" : 140,
+      "Lemak": 0,
+      "Serat":0,
+      "Gula": 30,
+      "Garam":0
+    },
+    "Jus Anggur(1gelas)" : {
+      "id":122,
+      "Protein": 0,
+      "Kalori" : 120,
+      "Lemak": 0,
+      "Serat":0,
+      "Gula": 24,
+      "Garam":0
+    },
+    "Jus Cranberyy(1gelas)" : {
+      "id":121,
+      "Protein": 0,
+      "Kalori" : 70,
+      "Lemak": 0,
+      "Serat":0,
+      "Gula": 15,
+      "Garam":0
+    },
+    "Jus Tomat(1gelas)" : {
+      "id":120,
+      "Protein": 0,
+      "Kalori" : 50,
+      "Lemak": 0,
+      "Serat":0,
+      "Gula": 10,
+      "Garam":0
+    },
+    "Jus Blueberry(1gelas)" : {
+      "id":119,
+      "Protein": 0,
+      "Kalori" : 85,
+      "Lemak": 0,
+      "Serat":0,
+      "Gula": 20,
+      "Garam":0
+    },
+    "Jus Semangka(1gelas)" : {
+      "id":118,
+      "Protein": 0,
+      "Kalori" : 40,
+      "Lemak": 0,
+      "Serat":0,
+      "Gula": 10,
+      "Garam":0
+    },
+    "Jus Wortel(1gelas)" : {
+      "id":117,
+      "Protein": 0,
+      "Kalori" : 80,
+      "Lemak": 0,
+      "Serat":0,
+      "Gula": 15,
+      "Garam":0
+    },
+    "Jus Pisang(1gelas)" : {
+      "id":116,
+      "Protein": 0,
+      "Kalori" : 120,
+      "Lemak": 0,
+      "Serat":0,
+      "Gula": 20,
+      "Garam":0
+    },
+    "Wedang Seceng(1gelas)" : {
+      "id":115,
+      "Protein": 0,
+      "Kalori" : 50,
+      "Lemak": 0,
+      "Serat":0,
+      "Gula": 10,
+      "Garam":0
+    },
+    "Jus Kiwi(1gelas)" : {
+      "id":114,
+      "Protein": 0,
+      "Kalori" : 90,
+      "Lemak": 0,
+      "Serat":0,
+      "Gula": 15,
+      "Garam":0
+    },
+    "Teh Sereh(1gelas)" : {
+      "id":113,
+      "Protein": 0,
+      "Kalori" : 10,
+      "Lemak": 0,
+      "Serat":0,
+      "Gula": 0,
+      "Garam":0
+    },
+    "Jus Jeruk(1gelas)" : {
+      "id":112,
+      "Protein": 0,
+      "Kalori" : 110,
+      "Lemak": 0,
+      "Serat":0,
+      "Gula": 23,
+      "Garam":0
+    },
+    "Lemonade(1gelas)" : {
+      "id":111,
+      "Protein": 0,
+      "Kalori" : 90,
+      "Lemak": 0,
+      "Serat":0,
+      "Gula": 20,
+      "Garam":0
+    },
+    "Kopi Kenangan(1gelas)" : {
+      "id":110,
+      "Protein": 0,
+      "Kalori" : 150,
+      "Lemak": 0,
+      "Serat":0,
+      "Gula": 15,
+      "Garam":0
+    },
+    "Air Jahe Lemon(1gelas)" : {
+      "id":108,
+      "Protein": 0,
+      "Kalori" : 120,
+      "Lemak": 0,
+      "Serat":0,
+      "Gula": 24,
+      "Garam":0
+    },
+    "Es Oyen(1gelas)" : {
+      "id":107,
+      "Protein": 0,
+      "Kalori" : 120,
+      "Lemak": 0,
+      "Serat":0,
+      "Gula": 22,
+      "Garam":0
+    },
+    "Es Kopyor(1gelas)" : {
+      "id":106,
+      "Protein": 0,
+      "Kalori" : 220,
+      "Lemak": 0,
+      "Serat":0,
+      "Gula": 30,
+      "Garam":0
+    },
+    "Susu Kedelai(1gelas)" : {
+      "id":105,
+      "Protein": 0,
+      "Kalori" : 100,
+      "Lemak": 0,
+      "Serat":0,
+      "Gula": 8,
+      "Garam":0
+    },
+    "Kopi Tubruk madura(1gelas)" : {
+      "id":104,
+      "Protein":0,
+      "Kalori" : 2,
+      "Lemak": 0,
+      "Serat":0,
+      "Gula": 30,
+      "Garam":0
+    },
+    "Es Sirsak(1gelas)" : {
+      "id":103,
+      "Protein": 1,
+      "Kalori" : 80,
+      "Lemak": 0,
+      "Serat":0,
+      "Gula": 15,
+      "Garam":0
+    },
+    "Jamu Kunyit(1gelas)" : {
+      "id":102,
+      "Protein": 0,
+      "Kalori" : 40,
+      "Lemak": 0,
+      "Serat":0,
+      "Gula": 5,
+      "Garam":0
+    },
+    "Es Coklat(1gelas)" : {
+      "id":101,
+      "Protein": 0,
+      "Kalori" : 200,
+      "Lemak": 0,
+      "Serat":0,
+      "Gula": 30,
+      "Garam":0
+    },
+    "Wedang Ronde(1gelas)" : {
+      "id":100,
+      "Protein": 1,
+      "Kalori" : 180,
+      "Lemak": 0,
+      "Serat":0,
+      "Gula": 25,
+      "Garam":0
+    },
+    "Susu Kurma(1gelas)" : {
+      "id":99,
+      "Protein": 1,
+      "Kalori" : 150,
+      "Lemak": 0,
+      "Serat":0,
+      "Gula": 20,
+      "Garam":0
+    },
+    "Kopi Joss(1gelas)" : {
+      "id":98,
+      "Protein": 0,
+      "Kalori" : 80,
+      "Lemak": 0,
+      "Serat":0,
+      "Gula": 10,
+      "Garam":0
+    },
+    "Teh Talua(1gelas)" : {
+      "id":97,
+      "Protein": 0,
+      "Kalori" : 60,
+      "Lemak": 0,
+      "Serat":0,
+      "Gula": 10,
+      "Garam":0
+    },
+    "Bandrek(1gelas)" : {
+      "id":96,
+      "Protein": 0,
+      "Kalori" : 90,
+      "Lemak": 0,
+      "Serat":0,
+      "Gula": 15,
+      "Garam":0
+    },
+    "Es Teler(1gelas)" : {
+      "id":95,
+      "Protein": 0,
+      "Kalori" : 250,
+      "Lemak": 0,
+      "Serat":0,
+      "Gula": 30,
+      "Garam":0
+    },
+    "Bir Peletok(1gelas)" : {
+      "id":94,
+      "Protein": 0,
+      "Kalori" : 180,
+      "Lemak": 0,
+      "Serat":0,
+      "Gula": 2,
+      "Garam":0
+    },
+    "Es Kacang Merah(1gelas)" : {
+      "id":93,
+      "Protein": 0,
+      "Kalori" : 180,
+      "Lemak": 0,
+      "Serat":0,
+      "Gula": 25,
+      "Garam":0
+    },
+    "Teh Tarik Susu(1gelas)" : {
+      "id":92,
+      "Protein": 0,
+      "Kalori" : 120,
+      "Lemak": 0,
+      "Serat":0,
+      "Gula": 15,
+      "Garam":0
+    },
+    "Kopi Tubruk Susu(1gelas)" : {
+      "id":91,
+      "Protein": 0,
+      "Kalori" : 90,
+      "Lemak": 0,
+      "Serat":0,
+      "Gula": 10,
+      "Garam":0
+    },
+    "Air Putih(1gelas)" : {
+      "id":90,
+      "Protein": 0,
+      "Kalori" : 0,
+      "Lemak": 0,
+      "Serat":0,
+      "Gula": 0,
+      "Garam":0
+    },
+    "Jus Apel(1gelas)" : {
+      "id":89,
+      "Protein": 0,
+      "Kalori" : 110,
+      "Lemak": 0,
+      "Serat":0,
+      "Gula": 25,
+      "Garam":0
+    },
+    "Susu Soda(1gelas)" : {
+      "id":88,
+      "Protein": 0,
+      "Kalori" : 120,
+      "Lemak": 0,
+      "Serat":0,
+      "Gula": 20,
+      "Garam":0
+    },
+    "Teh Poci(1gelas)" : {
+      "id":87,
+      "Protein": 0,
+      "Kalori" : 20,
+      "Lemak": 0,
+      "Serat":0,
+      "Gula": 0,
+      "Garam":0
+    },
+    "Es Jeruk Nipis(1gelas)" : {
+      "id":86,
+      "Protein": 0,
+      "Kalori" : 50,
+      "Lemak": 0,
+      "Serat":0,
+      "Gula": 10,
+      "Garam":0
+    },
+    "Bajigur(1gelas)" : {
+      "id":85,
+      "Protein": 0,
+      "Kalori" : 150,
+      "Lemak": 0,
+      "Serat":0,
+      "Gula": 20,
+      "Garam":0
+    },
+    "Susu Jahe(1gelas)" : {
+      "id":84,
+      "Protein": 0,
+      "Kalori" : 120,
+      "Lemak": 0,
+      "Serat":0,
+      "Gula": 15,
+      "Garam":0
+    },
+    "Kopi Aceh(1gelas)" : {
+      "id":83,
+      "Protein": 0,
+      "Kalori" : 20,
+      "Lemak": 0,
+      "Serat":0,
+      "Gula": 0,
+      "Garam":0
+    },
+    "Es Doger(1gelas)" : {
+      "id":82,
+      "Protein": 0,
+      "Kalori" : 250,
+      "Lemak": 0,
+      "Serat":0,
+      "Gula": 32,
+      "Garam":0
+    },
+    "Wedang Jahe(1gelas)" : {
+      "id":81,
+      "Protein": 0,
+      "Kalori" : 40,
+      "Lemak": 0,
+      "Serat":0,
+      "Gula": 5,
+      "Garam":0
+    },
+    "Cendol(1gelas)" : {
+      "id":80,
+      "Protein": 0,
+      "Kalori" : 210,
+      "Lemak": 0,
+      "Serat":0,
+      "Gula": 28,
+      "Garam":0
+    },
+    "Jus Mangga(1gelas)" : {
+      "id":79,
+      "Protein": 1,
+      "Kalori" : 120,
+      "Lemak": 0,
+      "Serat":0,
+      "Gula": 23,
+      "Garam":0
+    },
+    "Teh Botol Sosro(1gelas)" : {
+      "id":78,
+      "Protein": 0,
+      "Kalori" : 150,
+      "Lemak": 0,
+      "Serat":0,
+      "Gula": 21,
+      "Garam":0
+    },
+    "Es Campur(1gelas)" : {
+      "id":77,
+      "Protein": 0,
+      "Kalori" : 200,
+      "Lemak": 0,
+      "Serat":0,
+      "Gula": 24,
+      "Garam":0
+    },
+    "Bir Bintang(1gelas)" : {
+      "id":76,
+      "Protein": 0,
+      "Kalori" : 150,
+      "Lemak": 0,
+      "Serat":0,
+      "Gula": 0,
+      "Garam":0
+    },
+    "Es Cincau(1gelas)" : {
+      "id":75,
+      "Protein": 1,
+      "Kalori" : 150,
+      "Lemak": 0,
+      "Serat":0,
+      "Gula": 20,
+      "Garam":0
+    },
+    "Kopi Kapal Api(1gelas)" : {
+      "id":74,
+      "Protein": 0,
+      "Kalori" : 2,
+      "Lemak": 0,
+      "Serat":0,
+      "Gula": 0,
+      "Garam":0
+    },
+    "Teh Hijau tawar(1gelas)" : {
+      "id":73,
+      "Protein": 0,
+      "Kalori" : 0,
+      "Lemak": 0,
+      "Serat":0,
+      "Gula": 0,
+      "Garam":0
+    },
+    "Cumi Tepung(1porsi)" : {
+      "id":64,
+      "Protein": 15,
+      "Kalori" : 200,
+      "Lemak": 10,
+      "Serat":1,
+      "Gula": 0,
+      "Garam":2
+    },
+    "Teh Tarik(1gelas)" : {
+      "id":66,
+      "Protein": 1,
+      "Kalori" : 80,
+      "Lemak": 0,
+      "Serat":0,
+      "Gula": 10,
+      "Garam":0
+    },
+    "Kopi Tubruk(1gelas)" : {
+      "id":67,
+      "Protein": 0,
+      "Kalori" : 10,
+      "Lemak": 0,
+      "Serat":0,
+      "Gula": 0,
+      "Garam":0
+    },
+    "Kopi Susu(1gelas)" : {
+      "id":68,
+      "Protein": 1,
+      "Kalori" : 80,
+      "Lemak": 0,
+      "Serat":0,
+      "Gula": 10,
+      "Garam":0
+    },
+    "Soda Gembira(1gelas)" : {
+      "id":69,
+      "Protein": 0,
+      "Kalori" : 120,
+      "Lemak": 0,
+      "Serat":0,
+      "Gula": 30,
+      "Garam":0
+    },
+    "Es Jeruk(1gelas)" : {
+      "id":70,
+      "Protein": 1,
+      "Kalori" : 60,
+      "Lemak": 0,
+      "Serat":0,
+      "Gula": 15,
+      "Garam":0
+    },
+    "Air Kelapa(1gelas)" : {
+      "id":71,
+      "Protein": 1,
+      "Kalori" : 46,
+      "Lemak": 0,
+      "Serat":0,
+      "Gula": 6,
+      "Garam":0
+    },
+    "Jus Alpukat(1gelas)" : {
+      "id":72,
+      "Protein": 1,
+      "Kalori" : 240,
+      "Lemak": 0,
+      "Serat":0,
+      "Gula": 10,
+      "Garam":0
+    },
+    "Es Teh Manis(1gelas)" : {
+      "id":65,
+      "Protein": 0,
+      "Kalori" : 80,
+      "Lemak": 0,
+      "Serat":0,
+      "Gula": 20,
+      "Garam":0
+    },
+    "Pempek(1porsi)" : {
+      "id":63,
+      "Protein": 15,
+      "Kalori" : 350,
+      "Lemak": 20,
+      "Serat":2,
+      "Gula": 1,
+      "Garam":2
+    },
+    "Martabak Manis(1potong)" : {
+      "id":61,
+      "Protein": 5,
+      "Kalori" : 250,
+      "Lemak": 11,
+      "Serat":1,
+      "Gula": 15,
+      "Garam":1
+    },
+    "Seblak(1porsi)" : {
+      "id":60,
+      "Protein": 10,
+      "Kalori" : 350,
+      "Lemak": 18,
+      "Serat":3,
+      "Gula": 3,
+      "Garam":2
+    },
+    "Bubur Ayam(1porsi)" : {
+      "id":59,
+      "Protein": 11,
+      "Kalori" : 250,
+      "Lemak": 8,
+      "Serat":2,
+      "Gula": 1,
+      "Garam":1
+    },
+    "Tumis Kangkung(1porsi)" : {
+      "id":58,
+      "Protein": 3,
+      "Kalori" : 70,
+      "Lemak": 5,
+      "Serat":3,
+      "Gula": 1,
+      "Garam":1
+    },
+    "Rendang Daging Sapi(1potong)" : {
+      "id":57,
+      "Protein": 10,
+      "Kalori" : 210,
+      "Lemak": 12,
+      "Serat":2,
+      "Gula": 1,
+      "Garam":1
+    },
+    "Sayur Asem(1porsi)" : {
+      "id":56,
+      "Protein": 5,
+      "Kalori" : 150,
+      "Lemak": 6,
+      "Serat":4,
+      "Gula": 7,
+      "Garam":1
+    },
+    "Tuna Salad(1porsi)" : {
+      "id":54,
+      "Protein": 25,
+      "Kalori" : 210,
+      "Lemak": 8,
+      "Serat":4,
+      "Gula": 2,
+      "Garam":1
+    },
+    "Capcay(1porsi)" : {
+      "id":53,
+      "Protein": 10,
+      "Kalori" : 245,
+      "Lemak": 12,
+      "Serat":5,
+      "Gula": 8,
+      "Garam":1
+    },
+    "Tahu Goreng(1potong)" : {
+      "id":52,
+      "Protein": 5,
+      "Kalori" : 110,
+      "Lemak": 8,
+      "Serat":2,
+      "Gula": 0,
+      "Garam":1
+    },
+    "Steak Daging Sapi(150 gram)" : {
+      "id":46,
+      "Protein": 15,
+      "Kalori" : 300,
+      "Lemak": 12,
+      "Serat":4,
+      "Gula": 3,
+      "Garam":1
+    },
+    "Roti Gandum(1potong)" : {
+      "id":51,
+      "Protein": 5,
+      "Kalori" : 160,
+      "Lemak": 2,
+      "Serat":4,
+      "Gula": 3,
+      "Garam":1
+    },
+    "Steak Daging Sapi(150gram)" : {
+      "id":46,
+      "Protein": 15,
+      "Kalori" : 300,
+      "Lemak": 12,
+      "Serat":4,
+      "Gula": 3,
+      "Garam":1
+    },
+    "Ikan Panggang(1porsi)" : {
+      "id":49,
+      "Protein": 25,
+      "Kalori" : 220,
+      "Lemak": 11,
+      "Serat":1,
+      "Gula": 1,
+      "Garam":1
+    },
+    "Sup Sayuran(1porsi)" : {
+      "id":48,
+      "Protein": 4,
+      "Kalori" : 120,
+      "Lemak": 2,
+      "Serat":1,
+      "Gula": 24,
+      "Garam":1
+    },
+    "Pizza(1potong)" : {
+      "id":47,
+      "Protein": 10,
+      "Kalori" : 230,
+      "Lemak": 14,
+      "Serat":1,
+      "Gula": 2,
+      "Garam":2
+    },
+    "Bakmi Goreng(1porsi)" : {
+      "id":50,
+      "Protein": 10,
+      "Kalori" : 350,
+      "Lemak": 14,
+      "Serat":2,
+      "Gula": 5,
+      "Garam":2
+    },
+    "Ayam Panggang(1porsi)" : {
+      "id":45,
+      "Protein": 13,
+      "Kalori" : 180,
+      "Lemak": 7,
+      "Serat":1,
+      "Gula": 2,
+      "Garam":1
+    },
+    "Bubur Jagung(1porsi)" : {
+      "id":44,
+      "Protein": 4,
+      "Kalori" : 150,
+      "Lemak": 2,
+      "Serat":2,
+      "Gula": 5,
+      "Garam":1
+    },
+    "Sandwich(1porsi)" : {
+      "id":43,
+      "Protein": 15,
+      "Kalori" : 300,
+      "Lemak": 12,
+      "Serat":4,
+      "Gula": 3,
+      "Garam":1
+    },
+    "Telur Dadar(1telur)" : {
+      "id":42,
+      "Protein": 8,
+      "Kalori" : 90,
+      "Lemak": 6,
+      "Serat":0,
+      "Gula": 0.3,
+      "Garam":0.1
+    },
+    "Oatmel + Buah(1porsi)" : {
+      "id":41,
+      "Protein": 7,
+      "Kalori" : 250,
+      "Lemak": 4,
+      "Serat":5,
+      "Gula": 10,
+      "Garam":1
+    },
+    "Sushi Roll Salmon(8 potong)" : {
+      "id":40,
+      "Protein": 12,
+      "Kalori" : 300,
+      "Lemak": 8,
+      "Serat":2,
+      "Gula": 3,
+      "Garam":1
+    },
+    "Salad Sayuran(1porsi)" : {
+      "id":39,
+      "Protein": 15,
+      "Kalori" : 150,
+      "Lemak": 10,
+      "Serat":4,
+      "Gula": 3,
+      "Garam":1
+    },
+    "Spaghetti(1porsi)" : {
+      "id":38,
+      "Protein": 15,
+      "Kalori" : 400,
+      "Lemak": 13,
+      "Serat":4,
+      "Gula": 5,
+      "Garam":2
+    },
+
+    "Rawon(1porsi)" : {
+      "id":36,
+      "Protein": 20,
+      "Kalori" : 430,
+      "Lemak": 16,
+      "Serat":2,
+      "Gula": 2,
+      "Garam":3
+    },
+    "Sop Bakso(1porsi)" : {
+      "id":35,
+      "Protein": 15,
+      "Kalori" : 300,
+      "Lemak": 10,
+      "Serat":2,
+      "Gula": 1.5,
+      "Garam":2
+    },
+    "Nasi Liwet(1porsi)" : {
+      "id":34,
+      "Protein": 11,
+      "Kalori" : 310,
+      "Lemak": 10,
+      "Serat":2,
+      "Gula": 2,
+      "Garam":2
+    },
+    "Mie Ayam(1porsi)" : {
+      "id":33,
+      "Protein": 15,
+      "Kalori" : 300,
+      "Lemak": 14,
+      "Serat":2,
+      "Gula": 2,
+      "Garam":2
+    },
+    "Ketoprak(1porsi)" : {
+      "id":32,
+      "Protein": 15,
+      "Kalori" : 400,
+      "Lemak": 13,
+      "Serat":4,
+      "Gula": 6,
+      "Garam":2
+    },
+    "Sop Kambing(1porsi)" : {
+      "id":31,
+      "Protein": 28,
+      "Kalori" : 430,
+      "Lemak": 24,
+      "Serat":2,
+      "Gula": 3,
+      "Garam":2
+    },
+    "Sop Ayam(1porsi)" : {
+      "id":30,
+      "Protein": 19,
+      "Kalori" : 400,
+      "Lemak": 20,
+      "Serat":2,
+      "Gula": 2,
+      "Garam":3
+    },
+    "Nasi Padang(1porsi)" : {
+      "id":24,
+      "Protein": 19,
+      "Kalori" : 600,
+      "Lemak": 23,
+      "Serat":2,
+      "Gula": 2,
+      "Garam":3
+    },
+    "Pepes Ikan(1porsi)" : {
+      "id":29,
+      "Protein": 14,
+      "Kalori" : 280,
+      "Lemak": 14,
+      "Serat":2,
+      "Gula": 3,
+      "Garam":2
+    },
+    "Martabak(1porsi)" : {
+      "id":28,
+      "Protein": 13,
+      "Kalori" : 400,
+      "Lemak": 20,
+      "Serat":2,
+      "Gula": 6,
+      "Garam":3
+    },
+    "Nasi Timbel(1porsi)" : {
+      "id":27,
+      "Protein": 10,
+      "Kalori" : 300,
+      "Lemak": 20,
+      "Serat":1,
+      "Gula": 2,
+      "Garam":2
+    },
+    "Sop Buntut(1porsi)" : {
+      "id":25,
+      "Protein": 23,
+      "Kalori" : 450,
+      "Lemak": 24,
+      "Serat":2,
+      "Gula": 2,
+      "Garam":2
+    },
+    "Pecel Lele(1porsi)" : {
+      "id":26,
+      "Protein": 18,
+      "Kalori" : 350,
+      "Lemak": 21,
+      "Serat":2,
+      "Gula": 3,
+      "Garam":2
+    },
+    "Nasi Goreng(1porsi)" :{
+      "id":10,
+      "Protein": 10,
+      "Kalori" : 350,
+      "Lemak": 14,
+      "Serat": 3,
+      "Gula": 3,
+      "Garam":4
+    },
+    "Mie Goreng(1porsi)" :{
+      "id":11,
+      "Protein": 10,
+      "Kalori" : 350,
+      "Lemak": 15,
+      "Serat": 5,
+      "Gula": 3,
+      "Garam":3
+    },
+    "Nasi Ayam(1porsi)" :{
+      "id":12,
+      "Protein": 25,
+      "Kalori" : 350,
+      "Lemak": 15,
+      "Serat": 5,
+      "Gula": 3,
+      "Garam":3
+    },
+    "Sate Ayam(1porsi)" :{
+      "id":14,
+      "Protein": 25,
+      "Kalori" : 340,
+      "Lemak": 18,
+      "Serat": 1,
+      "Gula": 2,
+      "Garam":2
+    },
+    "Gado Gado(1porsi)" :{
+      "id":15,
+      "Protein": 10,
+      "Kalori" : 300,
+      "Lemak": 15,
+      "Serat": 7,
+      "Gula": 6,
+      "Garam":2.5
+    },
+    "Soto (1porsi)" :{
+      "id":16,
+      "Protein": 10,
+      "Kalori" : 300,
+      "Lemak": 15,
+      "Serat": 7,
+      "Gula": 6,
+      "Garam":3
+    },
+    "Nasi Uduk(1porsi)" :{
+      "id":17,
+      "Protein": 3,
+      "Kalori" : 500,
+      "Lemak": 10,
+      "Serat": 2,
+      "Gula": 3,
+      "Garam":2
+    },
+    "Bakso(1porsi)" :{
+      "id":18,
+      "Protein": 20,
+      "Kalori" : 400,
+      "Lemak": 18,
+      "Serat": 2,
+      "Gula": 3,
+      "Garam":2
+    },
+    "Sate Sapi(1porsi)":{
+      "id":19,
+      "Protein": 25,
+      "Kalori" : 350,
+      "Lemak": 16,
+      "Serat": 1,
+      "Gula": 3,
+      "Garam":2
+    },
+    "Sate Kambing(1porsi)":{
+      "id":20,
+      "Protein": 23,
+      "Kalori" : 350,
+      "Lemak": 17,
+      "Serat": 1,
+      "Gula": 3,
+      "Garam":2
+    },
+    "Sate Padang(1porsi)":{
+      "id":21,
+      "Protein": 25,
+      "Kalori" : 340,
+      "Lemak": 19,
+      "Serat": 1,
+      "Gula": 3,
+      "Garam":2
+    },
+    "Sate Madura(1porsi)":{
+      "id":22,
+      "Protein": 25,
+      "Kalori" : 330,
+      "Lemak": 21,
+      "Serat": 1,
+      "Gula": 3,
+      "Garam":2
+    },
+    "Nasi Kuning(1porsi)":{
+      "id":23,
+      "Protein": 12,
+      "Kalori" : 300,
+      "Lemak": 8,
+      "Serat":2,
+      "Gula": 3,
+      "Garam":1
+    },
+    "Nasi Campur(1porsi)" :{
+      "id":13,
+      "Protein": 20,
+      "Kalori" : 450,
+      "Lemak": 15,
+      "Serat": 5,
+      "Gula": 2,
+      "Garam":12
+    },
+    "Nasi Putih(100gram)":{
+      "id":3,
+      "Protein": 3,
+      "Kalori" : 185,
+      "Lemak": 1,
+      "Serat": 3,
+      "Gula": 1,
+      "Garam":0.1
+    },
+    "Dada Ayam Kukus(100gram)":{
+      "id":344,
+      "Protein": 18,
+      "Kalori" :213,
+      "Lemak":  10,
+      "Serat":2,
+      "Gula": 0.5,
+      "Garam":0.5
+    },
+    "Singkong Rebus": {
+      "id":4,
+      "Protein": 0.2,
+      "Kalori" : 1.3,
+      "Lemak": 0.1,
+      "Serat":0.2,
+      "Gula": 0.1,
+      "Garam":0.1
+    },
+    "Jagung Rebus(100gram)": {
+      "id":5,
+      "Protein": 10,
+      "Kalori" : 332,
+      "Lemak": 3,
+      "Serat":3,
+      "Gula": 2,
+      "Garam":0.5
+    },
+    "Kentang Goreng(100gram)": {
+      "id":6,
+      "Protein": 2,
+      "Kalori" : 210,
+      "Lemak": 1,
+      "Serat":2,
+      "Gula": 1,
+      "Garam":0.5
+    },
+    "Sagu": {
+      "id":7,
+      "Protein": 0.1,
+      "Kalori" : 3.5,
+      "Lemak": 0.01,
+      "Serat":0.02,
+      "Gula": 0.1,
+      "Garam":0.1
+    },
+    "Ubi Rebus(100gram)": {
+      "id":8,
+      "Protein": 2,
+      "Kalori" : 95,
+      "Lemak": 1,
+      "Serat":3,
+      "Gula": 5,
+      "Garam":1
+    },
+    "Es Krim(1porsi)" : {
+      "id":9,
+      "Protein": 1,
+      "Kalori" : 2.2,
+      "Lemak": 0.8,
+      "Serat": 10,
+      "Gula": 0,
+      "Garam":0
+    },    
+    "Tahu(100gram)" :{
+      "id":2,
+      "Protein": 11,
+      "Kalori" : 80,
+      "Lemak": 5,
+      "Serat": 1,
+      "Gula": 0.1,
+      "Garam":0.1
+    },
+    "TempeGoreng(100gram)" : {
+      "id":1,
+      "Protein": 20,
+      "Kalori" : 190,
+      "Lemak": 9,
+      "Serat":2,
+      "Gula": 1,
+      "Garam":0.5
+    }
+  }
+}
